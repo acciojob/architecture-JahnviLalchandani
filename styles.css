@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+	background:#8FBC8F;
+}
+.imageContainer img{
+	width:500px;
+}
+table,tr,td{
+	border:1px solid black;
+}
+td img{
+	width:200px;
+	height:200px;
+}
+td{
+	text-align:center;
+}
